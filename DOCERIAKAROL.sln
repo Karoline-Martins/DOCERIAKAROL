@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DOCERIAKAROL", "DOCERIAKAROL\DOCERIAKAROL.csproj", "{A778BC6A-5F01-4CBF-A26F-0BDC9FAC3789}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NewFolder1", "NewFolder1", "{C3981671-8BA8-4ACD-A706-731854B8DEA9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Itens de Solução", "Itens de Solução", "{CD466AC7-5232-462C-959B-3409D65C01F1}"
+	ProjectSection(SolutionItems) = preProject
+		Tela_cadastro.txt = Tela_cadastro.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A778BC6A-5F01-4CBF-A26F-0BDC9FAC3789}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A778BC6A-5F01-4CBF-A26F-0BDC9FAC3789}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A778BC6A-5F01-4CBF-A26F-0BDC9FAC3789}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A778BC6A-5F01-4CBF-A26F-0BDC9FAC3789}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6E795181-3E07-4D04-B2E9-F7E25436260E}
+	EndGlobalSection
+EndGlobal
